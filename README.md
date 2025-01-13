@@ -2,7 +2,7 @@
 
 **SleepFixer - The most robust 'one-player-sleep' plugin on the platform. Local Difficulty compatible!**
 
-[SleepFixer-logo](https://github.com/lokka300/SleepFixer/blob/main/frontpage%20icon.png?raw=true)
+(https://github.com/lokka300/SleepFixer/blob/main/frontpage%20icon.png?raw=true)
 
 # Installation 👾
 1. Drop into plugins folder

@@ -4,7 +4,7 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/lokka300/SleepFixer/refs/heads/main/frontpage%20icon.png)
 
-# Installation 👾
+# Installation 
 1. Drop into plugins folder
 2. Done
 
